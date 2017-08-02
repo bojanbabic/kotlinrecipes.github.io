@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+webrick:
+  headers:
+    Supported-By: Kotlin Community
+    Made-With-Love: \@bojanbabic
